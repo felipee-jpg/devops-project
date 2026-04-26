@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Discord Commits
+      - name: Run Discord Webhook
         uses: Sniddl/discord-commits@v1.8
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
