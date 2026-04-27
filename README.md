@@ -1,3 +1,3 @@
 # devops-project
 
-Olá! Este é um repositório para a *somativa de devops*.
+Olá! Este é um repositório para a *somativa de DevOps*.
